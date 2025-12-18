@@ -8,7 +8,7 @@ IMAGE_DIR = "images"
 STATE_FILE = ".last_processed_image"
 OUTPUT_FILE = "transcriptions.txt"
 API_KEY_ENV_VAR = "GEMINI_API_KEY"
-MODEL_NAME = "gemini-1.5-pro"
+MODEL_NAME = "gemini-1.5-flash"
 PROMPT = """
 Describe this image in detail, focusing on the main subjects and any text present.
 After the description, provide a direct translation of that description into Hebrew.
@@ -52,12 +52,13 @@ def get_next_image():
         print(f"Error: The directory '{IMAGE_DIR}' was not found.")
         return None
 
+
 def main():
     """
     Main function to run the transcription and translation process.
     """
     # 1. Get API Key and configure the model
-    api_key = os.getenv("TEMP_DEBUG_API_KEY") or os.getenv(API_KEY_ENV_VAR)
+    api_key = os.getenv(API_KEY_ENV_VAR)
     if not api_key:
         raise ValueError(f"API key not found. Please set the '{API_KEY_ENV_VAR}' environment variable.")
     genai.configure(api_key=api_key)
