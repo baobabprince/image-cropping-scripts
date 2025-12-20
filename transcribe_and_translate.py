@@ -21,42 +21,47 @@ def get_next_image():
     """
     Determines the next image to process based on a state file.
     """
-    try:
-        image_files = sorted([f for f in os.listdir(IMAGE_DIR) if f.lower().endswith(('.png', '.jpg', '.jpeg'))])
-        if not image_files:
-            print("No images found in the 'images' directory.")
-            return None
-
-        last_processed = ""
-        if os.path.exists(STATE_FILE):
-            with open(STATE_FILE, "r") as f:
-                last_processed = f.read().strip()
-
-        if not last_processed:
-            # If state file is empty or doesn't exist, start with the first image
-            return image_files[0]
-
-        try:
-            last_index = image_files.index(last_processed)
-            if last_index + 1 < len(image_files):
-                return image_files[last_index + 1]
-            else:
-                print("All images have been processed.")
-                return None
-        except ValueError:
-            # The file in the state file wasn't found in the directory, start from the beginning
-            print(f"Warning: State file contains an image not found in the directory ('{last_processed}'). Starting from the first image.")
-            return image_files[0]
-
-    except FileNotFoundError:
+    if not os.path.exists(IMAGE_DIR):
         print(f"Error: The directory '{IMAGE_DIR}' was not found.")
         return None
+
+    image_files = sorted([f for f in os.listdir(IMAGE_DIR) if f.lower().endswith(('.png', '.jpg', '.jpeg'))])
+    if not image_files:
+        print("No images found in the 'images' directory.")
+        return None
+
+    last_processed = ""
+    if os.path.exists(STATE_FILE):
+        with open(STATE_FILE, "r") as f:
+            last_processed = f.read().strip()
+
+    if not last_processed:
+        # If state file is empty or doesn't exist, start with the first image
+        return image_files[0]
+
+    try:
+        last_index = image_files.index(last_processed)
+        if last_index + 1 < len(image_files):
+            return image_files[last_index + 1]
+        else:
+            print("All images have been processed.")
+            return None
+    except ValueError:
+        # The file in the state file wasn't found in the directory, start from the beginning
+        print(f"Warning: State file contains an image not found in the directory ('{last_processed}'). Starting from the first image.")
+        return image_files[0]
 
 
 def main():
     """
     Main function to run the transcription and translation process.
     """
+    # Create output and state files if they don't exist
+    for file_path in [OUTPUT_FILE, STATE_FILE]:
+        if not os.path.exists(file_path):
+            with open(file_path, "w") as f:
+                pass  # Create an empty file
+
     # 1. Get API Key and configure the model
     api_key = os.getenv(API_KEY_ENV_VAR)
     if not api_key:
