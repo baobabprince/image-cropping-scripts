@@ -20,15 +20,38 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install, Verify, and Run Transcription
+      - name: Install, Debug, and Run Transcription
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
+          # --- Installation ---
           python -m pip install --upgrade pip
           pip install --no-cache-dir -r requirements.txt
-          echo "Verifying installation..."
-          python -c "import google.genai"
+
+          # --- Deep Debugging ---
+          echo "--- Which Python and Pip ---"
+          which python
+          which pip
+
+          echo "--- Pip Show google-generativeai ---"
+          pip show google-generativeai
+
+          echo "--- Python sys.path ---"
+          python -c "import sys; print(sys.path)"
+
+          echo "--- Site Packages Content ---"
+          SITE_PACKAGES=$(python -c "import site; print(site.getsitepackages()[0])")
+          echo "Site packages directory: $SITE_PACKAGES"
+          ls -l "$SITE_PACKAGES"
+          echo "--- Google directory content ---"
+          ls -l "$SITE_PACKAGES/google"
+
+          # --- Verification ---
+          echo "--- Verifying installation ---"
+          python -c "import google.generativeai"
           echo "Verification successful. Running script..."
+
+          # --- Execution ---
           mkdir -p images
           touch transcriptions.txt .last_processed_image
           python main.py transcribe --image_dir images --output_file transcriptions.txt --state_file .last_processed_image
