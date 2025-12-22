@@ -31,6 +31,8 @@ enum Commands {
         output_file: String,
         #[clap(long, default_value = ".last_processed_image")]
         state_file: String,
+        #[clap(long, default_value_t = 700)]
+        max_images: u32,
     },
 }
 
@@ -44,8 +46,8 @@ async fn main() -> Result<()> {
             cropper::crop_image(&mut img, method, output_path.to_str().unwrap())?;
             println!("Image cropped successfully and saved to {:?}", output_path);
         }
-        Commands::Transcribe { image_dir, output_file, state_file } => {
-            let next_image_filename = get_next_image_filename(state_file, 700)?;
+        Commands::Transcribe { image_dir, output_file, state_file, max_images } => {
+            let next_image_filename = get_next_image_filename(state_file, *max_images)?;
             if let Some(filename) = next_image_filename {
                 let image_path = PathBuf::from(image_dir).join(&filename);
                 let base_url = "https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/";
@@ -73,10 +75,17 @@ async fn main() -> Result<()> {
     Ok(())
 }
 
+use regex::Regex;
+
 fn get_next_image_filename(state_file: &str, max_images: u32) -> Result<Option<String>> {
     let last_processed_num = if PathBuf::from(state_file).exists() {
         let content = std::fs::read_to_string(state_file)?;
-        content.trim().split('.').next().unwrap_or("0").parse::<u32>().unwrap_or(0)
+        let re = Regex::new(r"(\d+)")?;
+        if let Some(caps) = re.captures(content.trim()) {
+            caps.get(1).map_or(0, |m| m.as_str().parse::<u32>().unwrap_or(0))
+        } else {
+            0
+        }
     } else {
         0
     };

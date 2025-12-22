@@ -32,6 +32,7 @@ fn crop_fixed(img: &mut DynamicImage, output_path: &str) -> Result<()> {
     let new_height = height - crop_amount;
 
     let cropped_img = img.crop_imm(0, 0, width, new_height);
+    let cropped_img_rgba = cropped_img.to_rgba8();
 
     // Find bounding box (trim transparency)
     let mut min_x = width;
@@ -39,12 +40,12 @@ fn crop_fixed(img: &mut DynamicImage, output_path: &str) -> Result<()> {
     let mut max_x = 0;
     let mut max_y = 0;
 
-    for (x, y, pixel) in cropped_img.pixels() {
+    for (x, y, pixel) in cropped_img_rgba.enumerate_pixels() {
         if pixel[3] > 0 { // Check alpha channel
-            if x < min_x { min_x = x; }
-            if y < min_y { min_y = y; }
-            if x > max_x { max_x = x; }
-            if y > max_y { max_y = y; }
+            if *x < min_x { min_x = *x; }
+            if *y < min_y { min_y = *y; }
+            if *x > max_x { max_x = *x; }
+            if *y > max_y { max_y = *y; }
         }
     }
 
@@ -115,13 +116,21 @@ fn crop_grayscale(img: &mut DynamicImage, output_path: &str) -> Result<()> {
 }
 
 fn crop_contour(img: &mut DynamicImage, output_path: &str) -> Result<()> {
-    // This is a bit of a workaround as DynamicImage doesn't easily convert to Mat
-    let temp_path = "/tmp/temp_for_contour.png";
-    img.save(temp_path)?;
-    let image = imgcodecs::imread(temp_path, imgcodecs::IMREAD_COLOR)?;
+    let rgb_img = img.to_rgb8();
+    let (width, height) = rgb_img.dimensions();
+
+    let src_mat = unsafe {
+        Mat::new_rows_cols_with_data(
+            height as i32,
+            width as i32,
+            core::CV_8UC3,
+            rgb_img.as_raw().as_ptr() as *mut _,
+            core::Mat_AUTO_STEP,
+        )?
+    };
 
     let mut gray = Mat::default();
-    imgproc::cvt_color(&image, &mut gray, imgproc::COLOR_BGR2GRAY, 0)?;
+    imgproc::cvt_color(&src_mat, &mut gray, imgproc::COLOR_BGR2GRAY, 0)?;
 
     let mut thresh = Mat::default();
     imgproc::threshold(&gray, &mut thresh, 10.0, 255.0, imgproc::THRESH_BINARY)?;
@@ -131,12 +140,11 @@ fn crop_contour(img: &mut DynamicImage, output_path: &str) -> Result<()> {
 
     if let Some(largest_contour) = contours.iter().max_by_key(|c| (imgproc::contour_area(c, false).unwrap_or(0.0) * 1000.0) as i32) {
         let rect = imgproc::bounding_rect(&largest_contour)?;
-        let cropped_image = Mat::roi(&image, rect)?;
+        let cropped_image = Mat::roi(&src_mat, rect)?;
         imgcodecs::imwrite(output_path, &cropped_image, &core::Vector::new())?;
     } else {
         return Err(anyhow!("No contours found"));
     }
 
-    std::fs::remove_file(temp_path)?;
     Ok(())
 }
