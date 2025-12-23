@@ -37,7 +37,20 @@ def main():
         img_data = img_path.read_bytes()
         content_parts.append(types.Part.from_bytes(data=img_data, mime_type="image/jpeg"))
 
-    prompt = "Provide a full transcription and a Hebrew translation for each image. Identify images by their order."
+    prompt = "Analyze the provided image and perform the following tasks:
+
+1. **Transcription**: Transcribe the text exactly as it appears in the image. Maintain the original line breaks and formatting. If any word is unclear, mark it with [unclear].
+2. **Translation**: Translate the transcribed text into fluent and natural Hebrew. Ensure that the tone and context of the original message are preserved.
+
+Please present the result in this format:
+---
+### Transcription (Original)
+[The text here]
+
+### Translation (Hebrew)
+[The Hebrew translation here]
+---
+"
     content_parts.append(prompt)
 
     try:
