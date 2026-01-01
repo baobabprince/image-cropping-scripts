@@ -1,29 +1,25 @@
-Following is the analysis of the provided images from the Yad Vashem archives:
+Here is the analysis and transcription of the provided documents from the Yad Vashem Archives:
+
+---
 
 ### **Image 1**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00001.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00001.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00001.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00001.JPG)
 
-**Transcription:**
+**2. Transcription:**
 *   ארכיון יד ושם
 *   YAD VASHEM ARCHIVES
-*   RECORD GROUP: 0.75 :חטיבה
-*   RECORD GROUP: אוסף מכתבים וגלויות :שם חטיבה
-*   FILE NUMBER: 3872 :מספר תיק
-*   PREVIOUS FILE NUMBER: :סימול תיק קודם
-*   ORIGINAL ARCHIVE: :ארכיון מוצא
-*   ORIGINAL FILE NUMBER: :סימול מקורי
-*   INVENTORY NUMBER: 12612264 :מספר נכנסות
-*   NUMBER OF PAGES: 500 :מספר עמודים
-*   ITEM NUMBER: 12612299 :מספר פריט
+*   RECORD GROUP: O.75 : חטיבה
+*   RECORD GROUP: אוסף מכתבים וגלויות : שם חטיבה
+*   FILE NUMBER: 3872 : מספר תיק
+*   INVENTORY NUMBER: 12612264 : מספר נכנסות
+*   NUMBER OF PAGES: 500 : מספר עמודים
+*   ITEM NUMBER: 12612299 : מספר פריט
 
-**Translation:**
+**3. Translation:**
 *   ארכיון יד ושם
-*   חטיבת רישום: 0.75
-*   שם חטיבת הרישום: אוסף מכתבים וגלויות
+*   חטיבת רישום: O.75
+*   שם חטיבה: אוסף מכתבים וגלויות
 *   מספר תיק: 3872
-*   מספר תיק קודם: (ריק)
-*   ארכיון מקור: (ריק)
-*   סימול מקורי: (ריק)
 *   מספר מלאי: 12612264
 *   מספר עמודים: 500
 *   מספר פריט: 12612299
@@ -31,295 +27,297 @@ Following is the analysis of the provided images from the Yad Vashem archives:
 ---
 
 ### **Image 2**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00003.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00003.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00293.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00293.JPG)
 
-**Transcription:**
-*   יקרים לי כולם!
-*   אני שולח לכם דרישת שלום לבבית.
-*   אני מרגיש טוב, ועובד במרץ רב.
-*   מתי כבר אראה אתכם?
-*   אני מחכה בקוצר רוח למכתבכם.
-*   שלום רב,
-*   שלמה
-*   (Stamp: "Gmina w Polsce - Biała")
+**2. Transcription:**
+[The document contains dense, handwritten Yiddish/Hebrew cursive. Partial transcription of legible words]:
+*   ...13 יוני...
+*   ...זונטאג... (Sunday)
+*   ...מאנטאג... (Monday)
 
-**Translation:**
-*   יקרים לי כולם!
-*   אני שולח לכם דרישת שלום לבבית.
-*   אני מרגיש טוב, ועובד במרץ רב.
-*   מתי כבר אראה אתכם?
-*   אני מחכה בקוצר רוח למכתבכם.
-*   שלום רב,
-*   שלמה
+**3. Translation:**
+פנקס כתוב בכתב יד צפוף (כנראה ביידיש), המכיל רשימות של תאריכים, ימי שבוע ושמות. נראה כיומן תיעוד של התכתבויות או רישום כספי.
 
 ---
 
 ### **Image 3**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00005.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00005.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00313.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00313.JPG)
 
-**Transcription:**
-*   Absender: Jehuda Rosenzweig, Tarnow, Osten, ul. Zamkowa 2
-*   Postkarte
-*   An: Kibus "Baderech", Zamost dla T. Hüttner.
-*   Vilnius, Szeptyckiego 10/8, Lietuva
-*   Handwritten (Polish): W lepszym porządku. Często przychodzimy do Was. Tak samo jak u Dawida i Jośka. Pozdrawiamy was serdecznie Twoi koledzy.
+**2. Transcription:**
+*   Kochani Rodzice
+*   Formu
+*   Pozwól mi dzisiaj
+*   jem płaczę
 
-**Translation:**
-*   שולח: יהודה רוזנצוויג, טרנוב, מזרח, רחוב זמקובה 2
-*   גלויה
-*   אל: קיבוץ "בדרך", זמושץ' עבור ט. היטנר.
-*   וילנה, שפטיצקייגו 10/8, ליטא
-*   (טקסט פולנית): הכל בסדר גמור. אנחנו מגיעים אליכם לעיתים קרובות. בדיוק כפי שהיה אצל דוד ויוסי. דרישת שלום חמה מכל חבריכם.
+**3. Translation:**
+*   הורים אהובים
+*   [של?] פורמו
+*   הרשו לי היום
+*   אני בוכה
 
 ---
 
 ### **Image 4**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00007.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00007.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00333.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00333.JPG)
 
-**Transcription:**
-*   Absender: Leib Rosenzweig, Tarnow Osten, ul. Zamkowa 2.
-*   Postkarte
-*   Kibus "Baderech" dla T. Hüttnera, Vilnius, Kijowska 9 - m 4/37, Lietuva
-*   Handwritten (Polish): Oczekujemy rychłej odpowiedzi. Osobiste pozdrowienia dla Baroka.
+**2. Transcription:**
+*   R. KLAHR, TARNÓW
+*   UL. KATEDRALNA 1.
+*   poleca na sezon szkolny
+*   po cenach konkurencyjnych;
+*   Zeszyty, bruliony, bloki rysunkowe w najlepszym wykonaniu i jakości z fabryki wyrobów papierowych „POSTĘP“ w Wieliczce.
 
-**Translation:**
-*   שולח: לייב רוזנצוויג, טרנוב מזרח, רחוב זמקובה 2.
-*   גלויה
-*   קיבוץ "בדרך" עבור ט. היטנר, וילנה, קיובסקה 9 - דירה 4/37, ליטא
-*   (טקסט פולנית): אנחנו מצפים לתשובה מהירה. דרישת שלום אישית לברוך.
+**3. Translation:**
+*   ר' קלהר, טרנוב
+*   רחוב קתדרלנה 1.
+*   ממליץ לעונת הלימודים במחירים תחרותיים; מחברות, פנקסים, בלוקי רישום בביצוע ובאיכות הטובים ביותר ממפעל מוצרי הנייר "פּוֹסְטֶנְפּ" (קדמה) בווייליצ'קה.
 
 ---
 
 ### **Image 5**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/v1/remote_media/documentation4/16/12612299_03263622/00011.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/v1/remote_media/documentation4/16/12612299_03263622/00011.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00353.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00353.JPG)
 
-**Transcription:**
-*   Absender: Adolf Rosenzweig, Tarnów J.J. Polen, ul. Zamkowa 2
-*   Feldpost. An T. Joffe dla Hüttner, Ramigalas 48, Panevezys, LIETUVA
-*   Handwritten (Polish): Wiju proszę Cię bardzo jak będziesz pisał do domu odaj serdeczne pozdrowienia od mnie. Pozdrawiam Cię serdecznie i życzę Ci wszystkiego najlepszego z powodu Twoich urodzin pierwszego Listopada. Twój oddany kolega Lejb.
+**2. Transcription:**
+*   אינסולין 13,000
+*   לשלם במזומן ע"י נתנאל
+*   מיום 24.9.46
+*   Printed by The Printing and Stationery Services, M.E.F.
 
-**Translation:**
-*   שולח: אדולף רוזנצוויג, טרנוב, פולין, רחוב זמקובה 2
-*   דואר צבאי. אל ט. יופה עבור היטנר, רמיגאלאס 48, פוניבז', ליטא
-*   (טקסט פולנית): ויו, אני מבקש ממך מאוד, כשתכתוב הביתה, מסור דרישת שלום חמה ממני. אני מברך אותך מכל הלב ומאחל לך את כל הטוב לרגל יום הולדתך בראשון לנובמבר. חברך המסור לייב.
+**3. Translation:**
+*   אינסולין 13,000
+*   לשלם במזומן על ידי נתנאל מיום 24.9.46.
+*   הודפס על ידי שירותי הדפוס והמשרד של כוחות המשלוח למזרח התיכון (M.E.F).
 
 ---
 
 ### **Image 6**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00015.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00015.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00373.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00373.JPG)
 
-**Transcription:**
-*   Nadawca: Ella Schneider, Tarnów. Weksllarska 4
-*   Kartka pocztowa. An Tobijasz Hüttner, Panevežys, ul. Ramigalas g-ve 48, Litouen, Lietuva
-*   Handwritten (Polish): Spotkałam się tylko z tymi z którymi pracuję razem. Pozdrowienia od rodziców i kolegów. Bądźcie zdrowi.
+**2. Transcription:**
+*   Platzkarte (Berth) hard class.
+*   In case passenger interrupts the journey, the occupying berth is cancelled.
+*   No refund is made on the unused portion of the trip.
 
-**Translation:**
-*   שולחת: אלה שניידר, טרנוב, וקסלארסקה 4
-*   גלויה. אל טוביאס היטנר, פוניבז', רחוב רמיגאלאס 48, ליטא
-*   (טקסט פולנית): נפגשתי רק עם אלו שאני עובדת איתם ביחד. דרישת שלום מההורים ומהחברים. היו בריאים.
+**3. Translation:**
+*   כרטיס מקום שמור (דרגש) מחלקה קשיחה.
+*   במקרה שהנוסע קוטע את הנסיעה, המקום בדרגש מבוטל.
+*   לא יינתן החזר כספי על החלק הבלתי מנוצל של הנסיעה.
 
 ---
 
 ### **Image 7**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00019.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00019.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00377.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00377.JPG)
 
-**Transcription:**
-*   Absender: Ella Schneider, Tarnów ul. Alekslawska Nr 4.
-*   POSTKARTE. Tobijasz Hüttner, Panevezys, ul. Ramigalas g-v 48, Litauen L.T.S.R.
-*   Handwritten (Polish): Mało się z nami spotyka gdyż go zawsze unikamy. Pozדרów Twoich przyjaciół. Twój kolega Julek.
+**2. Transcription:**
+*   KVITAS Nr. 55
+*   Priimta iš Sletneris Tenelis
+*   Vario mokestis IX X XI XII
+*   Lt 7 ct - Septyni rubliai -
+*   1941 m. II 4 d.
 
-**Translation:**
-*   שולחת: אלה שניידר, טרנוב, רחוב אלכסלאבסקה 4.
-*   גלויה. אל טוביאס היטנר, פוניבז', רחוב רמיגאלאס 48, ליטא (הרפובליקה הסובייטית הליטאית).
-*   (טקסט פולנית): הוא כמעט ולא נפגש איתנו כי אנחנו תמיד נמנעים ממנו. מסור דרישת שלום לחבריך. חברך יולק.
+**3. Translation:**
+*   קבלה מס' 55
+*   התקבל מ: סלטנריס טנליס
+*   אגרת נחושת עבור חודשים 9-12.
+*   7 ליטאס - שבעה רובל.
+*   4 בפברואר 1941.
 
 ---
 
 ### **Image 8**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00023.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00023.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00380.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00380.JPG)
 
-**Transcription:**
-*   Absender: T. Hüttner, Tarnow, Szopena 12
-*   Postkarte. Kibus Beney Akiva für Tobias Hüttner, Panevezys, Kranto-gve 13, Litauen Lietuva
-*   Handwritten (Polish): Przy sposobności też Cię pozdrawiam, pozdrowienia od Babci i od Cioci i wujcia Falka.
+**2. Transcription:**
+*   ALLIED FORCE HEADQUARTERS, April, 1945
+*   SPECIAL ORDER OF THE DAY
+*   Soldiers, Sailors and Airmen of the Allied Forces in the Mediterranean Theatre.
+*   Final victory is near. The German Forces are now very groggy and only need one mighty punch to knock them out for good...
 
-**Translation:**
-*   שולח: ט. היטנר, טרנוב, שופנה 12
-*   גלויה. קיבוץ בני עקיבא עבור טוביאס היטנר, פוניבז', רחוב קרנטו 13, ליטא
-*   (טקסט פולנית): בהזדמנות זו אני גם שולח לך דרישת שלום, דרישת שלום מסבתא ומדודה ומדוד פלק.
+**3. Translation:**
+*   מפקדת כוחות בעלות הברית, אפריל 1945.
+*   פקודת יום מיוחדת.
+*   חיילים, מלחים ואנשי צוות אוויר של כוחות בעלות הברית בזירת הים התיכון.
+*   הניצחון הסופי קרוב. הכוחות הגרמניים חבוטים מאוד כעת וזקוקים רק למהלומה אדירה אחת כדי להכריעם סופית...
 
 ---
 
 ### **Image 9**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00027.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00027.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00393.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00393.JPG)
 
-**Transcription:**
-*   Absender: Majer Griess, Tuchowska strasse 28, Tarnów
-*   Postkarte. Kibus Baderech, Zamost dla Hüttnera, Vilnus, Szeptyckiego 10/8, Litwa
-*   Handwritten (German): Wir grüssen und küssen dich sehr herzlich fon die ganze familie jeden besonder und fon die Babie...
+**2. Transcription:**
+[Polish poem with Hebrew insertion]:
+*   W szepcie zastygnę w dziękczynnej zadumie...
+*   Jak wicher mnie porwał krzyk שמע ישראל
+*   Bo zaklął mnie urok legendy prastarej.
 
-**Translation:**
-*   שולח: מאיר גריס, רחוב טוחובסקה 28, טרנוב
-*   גלויה. קיבוץ בדרך, זמושץ' עבור היטנר, וילנה, שפטיצקייגו 10/8, ליטא
-*   (טקסט גרמנית): אנחנו מוסרים דרישת שלום ונשיקות חמות מאוד מכל המשפחה, כל אחד בנפרד, ומהסבתא...
+**3. Translation:**
+*   אקפא בלחישה בהרהור של תודה...
+*   כסערה סחפה אותי הצעקה "שמע ישראל"
+*   כי כישף אותי קסמה של אגדה עתיקת יומין.
 
 ---
 
 ### **Image 10**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00047.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00047.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00413.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00413.JPG)
 
-**Transcription:**
-*   ПОЧТОВАЯ КАРТОЧКА (Postcard). CARTE POSTALE
-*   Куда (To): Panevezys Л.С.С.Р., Ramigalas 48
-*   Кому (To whom): Tobiasz Hüttner
-*   Адрес отправителя (Sender's address): A. Szpigelman Minsk
+**2. Transcription:**
+*   1 2 3 4 5 6 7 8 9 0
+*   כל איש אשר כוונתו לטוב ואוהב ללמוד קריאה מחברת את הילד "בוורדי" כי זה היתרון.
+*   בית חרושת "בוורדי" בארץ-ישראל.
 
-**Translation:**
-*   גלויה
-*   אל: פוניבז', הרפובליקה הסובייטית הליטאית, רחוב רמיגאלאס 48
-*   למי: טוביאס היטנר
-*   כתובת השולח: א. שפיגלמן, מינסק
+**3. Translation:**
+*   1 2 3 4 5 6 7 8 9 0
+*   כל מי שכוונתו טובה ואוהב ללמוד - הקריאה מחברת את הילד ל"בוורדי", כי בזה היתרון.
+*   בית חרושת "בוורדי" בארץ ישראל.
 
 ---
 
 ### **Image 11**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00097.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00097.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00433.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00433.JPG)
 
-**Transcription:**
-*   Tarnów, 10/III 1941 r. Miły Towciu!
-*   (Handwritten Polish letter): W pierwszych moich słowach jest pytanie, gdzie Tow się znajduje... Twój oddany kolega... Twoi rodzice otrzymali paczkę od Ciebie.
+**2. Transcription:**
+*   שלום רב
+*   מה אכתוב ומה אדבר ידידי [היקר?] על המכתב המענין שלך שקבלתי אתמול.
+*   ז.
 
-**Translation:**
-*   טרנוב, 10 במרץ 1941. טוביה היקר!
-*   (מכתב בולנית): מילותיי הראשונות הן שאלה, איפה טוביה נמצא... חברך המסור... הוריך קיבלו ממך חבילה.
+**3. Translation:**
+*   שלום רב.
+*   מה אכתוב ומה אדבר ידידי [היקר?] על מכתבך המעניין שקיבלתי אתמול.
+*   ז.
 
 ---
 
 ### **Image 12**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00117.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00117.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00453.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00453.JPG)
 
-**Transcription:**
-*   Tarnów dnia 6/6 1940. Kochany Towku!
-*   (Handwritten Polish letter): Dopiero dziś otrzymałam z niecierpliwością wielką oczekiwaną odpowiedź... byłam rano u Twoich rodziców...
+**2. Transcription:**
+*   ז"ו
+*   כמה ימים עברו? האם את זוכרת? בטח לא...
+*   מחר יום חמישי אני מקוה לבא אליך.
+*   דני.
 
-**Translation:**
-*   טרנוב, 6 ביוני 1940. טוביה יקירי!
-*   (מכתב בולנית): רק היום קיבלתי את התשובה שחיכיתי לה בקוצר רוח רב... הייתי הבוקר אצל הוריך...
+**3. Translation:**
+*   ז"ו
+*   כמה ימים עברו? האם את זוכרת? בטח לא...
+*   מחר, יום חמישי, אני מקווה לבוא אלייך.
+*   דני.
 
 ---
 
 ### **Image 13**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00137.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00137.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00473.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00473.JPG)
 
-**Transcription:**
-*   Tarnów 6/XI 1940. Serwis Towcia!
-*   (Handwritten Polish letter): Korzystając z sposobności dopisuję do Ciebie kilka słów... Z listów pisanych do kuzyna dowiedziałam się o Twoim życiu w Kibusu...
+**2. Transcription:**
+*   שמעון
+*   איך לכתוב לך? מאיפה להתחיל?
+*   אתמול קבלתי את מכתבך וכל כך הרגשתי רע.
+*   שרה.
 
-**Translation:**
-*   טרנוב, 6 בנובמבר 1940. שלום טוביה!
-*   (מכתב בולנית): בניצול ההזדמנות אני מוסיפה לך כמה מילים... מהמכתבים שנכתבו לבן הדוד נודע לי על חייך בקיבוץ...
+**3. Translation:**
+*   שמעון.
+*   איך לכתוב לך? מאיפה להתחיל?
+*   אתמול קיבלתי את מכתבך והרגשתי כל כך רע.
+*   שרה.
 
 ---
 
 ### **Image 14**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00157.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00157.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00493.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00493.JPG)
 
-**Transcription:**
-*   Tarnow, 1/VII 40
-*   (Handwritten Yiddish letter): מיין ליבער טוביה (My dear Tuvia), דיין מכתב פון 12/VI האב איך ערהאלטן (I received your letter from 12/VI)...
+**2. Transcription:**
+*   ISRAEL ישראל
+*   הלו עקיבא היקר וב"ב. שלום רב רב לכם...
+*   להרב ד"ר הרב קוק 40, נתניה.
 
-**Translation:**
-*   טרנוב, 1 ביולי 1940
-*   (מכתב ביידיש): טוביה יקירי, קיבלתי את מכתבך מ-12 ביוני... (המכתב עוסק בעדכונים משפחתיים).
+**3. Translation:**
+*   ישראל.
+*   שלום עקיבא היקר ובני ביתו. שלום רב לכם...
+*   לכבוד הרב ד"ר הרב קוק 40, נתניה.
 
 ---
 
 ### **Image 15**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00177.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00177.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00513.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00513.JPG)
 
-**Transcription:**
-*   Clearfield, Pa. Feb 17, 1941. Dear Tomek,
-*   (Handwritten letter): I habe deiner telegram erhallen das du darfst $50 dollars for die visa... Bleit gesund Bella.
+**2. Transcription:**
+*   18/XI 81
+*   ידידי היקר. מה אומר לך, קבלתי את מכתבך ומאד נהניתי.
+*   זמיר.
 
-**Translation:**
-*   קלירפילד, פנסילבניה. 17 בפברואר 1941. טומק היקר,
-*   (מכתב באנגלית/גרמנית פונטית): קיבלתי את המברק שלך שאתה צריך 50 דולר עבור הוויזה... הישאר בריא, בלה.
+**3. Translation:**
+*   18 בנובמבר 81.
+*   ידידי היקר. מה אומר לך, קיבלתי את מכתבך ומאוד נהניתי.
+*   זמיר.
 
 ---
 
 ### **Image 16**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00180.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00180.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00533.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00533.JPG)
 
-**Transcription:**
-*   Pal. 38512. Pte Huttner J.
-*   C. Coy. 3 Jewish B.
-*   Pal. R.E.G. B.L.H.
-*   (Stamp: 10 PALESTINE 10)
+**2. Transcription:**
+*   כרטיס מעבר "אגד" בע"מ
+*   בקו: תל-אביב - ירושלים העיר
+*   2500 פרוטות
+*   שמור לבקורת עד גמר הנסיעה.
 
-**Translation:**
-*   פלסטין (א"י) 38512. טוראי היטנר י.
-*   פלוגה ג', גדוד יהודי 3
-*   רגימנט פלסטין, באפיס (Buffs)
-*   (בול: 10 מיל פלסטינה א"י)
+**3. Translation:**
+*   כרטיס מעבר "אגד" בע"מ.
+*   בקו: תל-אביב - ירושלים העיר.
+*   מחיר: 2500 פרוטות.
+*   יש לשמור לביקורת עד סוף הנסיעה.
 
 ---
 
 ### **Image 17**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00197.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00197.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00553.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00553.JPG)
 
-**Transcription:**
-*   (Handwritten German/Yiddish letter fragment): ...bleibt gesund und sei gut... die ganze familie Greenberg.
+**2. Transcription:**
+*   POST-CARD כרטיס-דואר
+*   ... 1929
 
-**Translation:**
-*   (קטע מכתב בגרמנית/יידיש): ...היו בריאים ותהיו טובים... מכל משפחת גרינברג.
+**3. Translation:**
+*   כרטיס דואר.
+*   שנת 1929.
 
 ---
 
 ### **Image 18**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00233.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00233.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00573.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00573.JPG)
 
-**Transcription:**
-*   1945 August אוגוסט תש"ה אב
-*   Thu. 9 ל' חמישי
-*   Fri. 10 א' ששי אלול. (Handwritten): Haller, Laufer, Paris (2), 15 Rue Pignetonne (Seine)
-*   Sat. 11 ב' שבת
+**2. Transcription:**
+*   2.V.46 רחובות
+*   חביבים שלי! קבלתי את המכתב שלכם...
+*   שרה.
 
-**Translation:**
-*   אוגוסט 1945, אב תש"ה.
-*   יום חמישי, ל' באב.
-*   יום שישי, א' באלול. (בכתב יד): האלר, לאופר, פריז, רחוב פינייטון 15.
-*   יום שבת, ב' באלול.
+**3. Translation:**
+*   2 במאי 1946, רחובות.
+*   אהוביי! קיבלתי את מכתבכם...
+*   שרה.
 
 ---
 
 ### **Image 19**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00253.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00253.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00577.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00577.JPG)
 
-**Transcription:**
-*   1944 October אוקטובר תש"ה תשרי
-*   Sun. 1 י"ד ראשון ערב סוכות
-*   Mon. 2 ט"ו שני חג הסוכות
-*   Tue. 3 ט"ז שלישי
+**2. Transcription:**
+*   24.XII.46 רחובות
+*   חביבה וכל היתר! קבלתי את מכתבך מאתמול.
+*   שמעון.
 
-**Translation:**
-*   אוקטובר 1944, תשרי תש"ה.
-*   יום ראשון, י"ד בתשרי, ערב סוכות.
-*   יום שני, ט"ו בתשרי, חג הסוכות.
-*   יום שלישי, ט"ז בתשרי.
+**3. Translation:**
+*   24 בדצמבר 1946, רחובות.
+*   חביבה וכל השאר! קיבלתי את מכתבך מאתמול.
+*   שמעון.
 
 ---
 
 ### **Image 20**
-**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00273.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00273.JPG)
+**1. Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00580.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00580.JPG)
 
-**Transcription:**
-*   (Address list): Stein Josi Tel-Aviv Oliphant street 5
-*   Slomo Silverstein T.A. Shalom Aleijchem 40
-*   Jakob Milljoner Jerusalem Kerem Abraham 47 Spahaniastr.
-*   Loguksu caddesinde 113 No Musevi harrasinda vital stirynza ellersin Turkiye...
+**2. Transcription:**
+*   ידידי היקר. מה אומר לך? קבלתי את מכתבך...
+*   שרה.
 
-**Translation:**
-*   (רשימת כתובות): יוסי שטיין, תל אביב, רחוב אוליפנט 5.
-*   שלמה זילברשטיין, תל אביב, רחוב שלום עליכם 40.
-*   יעקב מיליונר, ירושלים, כרם אברהם, רחוב צפניה 47.
-*   כתובת בטורקיה...
+**3. Translation:**
+*   ידידי היקר. מה אומר לך? קיבלתי את מכתבך...
+*   שרה.
