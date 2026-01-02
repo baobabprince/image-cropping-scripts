@@ -24,7 +24,11 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add outputs/recreated/
-          git commit -m "Recreate images from list" || exit 0
-          git pull --rebase origin master
-          git push
+          if [ -d "outputs/recreated" ] && [ "$(ls -A outputs/recreated)" ]; then
+            git add outputs/recreated/
+            git commit -m "Recreate images from list" || exit 0
+            git pull --rebase origin master
+            git push
+          else
+            echo "No files to commit in outputs/recreated."
+          fi
