@@ -1,0 +1,30 @@
+name: Recreate Images from List
+on:
+  workflow_dispatch:    # Allows manual execution
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install and Run
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          pip install google-genai requests
+          python recreate.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add outputs/recreated/
+          git commit -m "Recreate images from list" || exit 0
+          git pull --rebase origin master
+          git push
