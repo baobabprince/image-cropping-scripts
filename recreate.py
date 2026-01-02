@@ -34,6 +34,7 @@ def download_worker(file_name):
 def main():
     parser = argparse.ArgumentParser(description="Recreate images from a list.")
     parser.add_argument("--dry-run", action="store_true", help="Simulate the script without calling the API.")
+    parser.add_argument("--max-images", type=int, default=0, help="Maximum number of images to process (0 for all).")
     args = parser.parse_args()
 
     if not IMAGES_TO_RECREATE_FILE.exists():
@@ -42,6 +43,9 @@ def main():
 
     with open(IMAGES_TO_RECREATE_FILE, "r", encoding="utf-8") as f:
         to_process_files = [line.strip() for line in f if line.strip()]
+
+    if args.max_images > 0:
+        to_process_files = to_process_files[:args.max_images]
 
     if not to_process_files:
         print("No images to recreate.")
